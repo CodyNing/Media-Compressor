@@ -5,7 +5,7 @@ Compress audio losslessly, and compress image lossy.
 # Tech
 - Linear Predictive Coding
 - Rice Coding
-- DCT transformation and quantization
+- Quantized discrete cosine transform
 
 # How to compile:
 ## Supported Platform:
