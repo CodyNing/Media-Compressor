@@ -1,4 +1,13 @@
-﻿# How to compile:
+# Media-Lossless-Compressor
+
+Compress audio losslessly, and compress image lossy.
+
+# Tech
+- Linear Predictive Coding
+- Rice Coding
+- DCT transformation and quantization
+
+# How to compile:
 ## Supported Platform:
     Windows 10 
 ## Prerequisite:
