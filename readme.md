@@ -1,4 +1,4 @@
-# Media-Lossless-Compressor
+# Media-Compressor
 
 Compress audio losslessly, and compress image lossy.
 
